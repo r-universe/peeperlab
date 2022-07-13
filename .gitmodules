@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CopywriteR"]
+	path = CopywriteR
+	url = https://github.com/peeperlab/copywriter
+	shallow = true
+	registered = true
